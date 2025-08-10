@@ -61,6 +61,6 @@ Diego Prado (Projeto desenvolvido durante o Ensino Médio)
 
 ## Licença
 
-Este projeto não possui uma licença explícita definida. Por favor, entre em contato com o autor para informações sobre o uso e distribuição.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. (Assumindo licença MIT, se houver um arquivo LICENSE diferente, por favor, ajuste.)
 
 
